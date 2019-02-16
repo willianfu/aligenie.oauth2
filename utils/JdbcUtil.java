@@ -10,8 +10,8 @@ import java.io.FileInputStream;
 import java.util.Properties;
 
 /**
- * @Author : willian fu
- * @Date   : 2019-01-11
+ * @author : willian fu
+ * @aate   : 2019-01-11
  * function :JDBC工具类库，获取SQL连接对象和连接池对象
  */
 public class JdbcUtil {
